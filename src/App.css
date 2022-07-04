@@ -1,0 +1,31 @@
+#input{
+    position: absolute;
+    height: 10%;
+    width: 40%;
+    top: 50%;
+    right: 40%;
+    font-size: 300%;
+    opacity: 0.3;
+    color: rgb(12, 95, 5);
+}
+
+input::placeholder {
+    font: 40px/3 sans-serif;
+}
+
+#button{
+    position: absolute;
+    height: 10%;
+    width: 10%;
+    top: 50%;
+    right: 30%;
+    opacity: 0.8;
+}
+#text{
+    position: absolute;
+    top: 30%;
+    right: 45%;
+    color: white;
+    
+  text-shadow: 2px 0px #4e4e4e;
+}
